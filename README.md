@@ -1,21 +1,24 @@
-### About me
-#### Languages and Tools I use
-[![python](https://img.shields.io/badge/python-43cba2?style=for-the-badge&logo=python&logoColor=white)]()
-[![html](https://img.shields.io/badge/html-43cba2?style=for-the-badge&logo=html5&logoColor=white)]()
-[![css3](https://img.shields.io/badge/css3-43cba2?style=for-the-badge&logo=css3&logoColor=white)]()
-[![js](https://img.shields.io/badge/JavaScript-43cba2?style=for-the-badge&logo=javascript&logoColor=white)]()
-[![java](https://img.shields.io/badge/java-43cba2?style=for-the-badge&logo=java&logoColor=white)]()
-[![c](https://img.shields.io/badge/c-43cba2?style=for-the-badge&logo=c&logoColor=white)]()
-[![cpp](https://img.shields.io/badge/c++-43cba2?style=for-the-badge&logo=c%2b%2b&logoColor=white)]()
-[![dart](https://img.shields.io/badge/dart-43cba2?style=for-the-badge&logo=dart&logoColor=white)]()
-[![flutter](https://img.shields.io/badge/flutter-43cba2?style=for-the-badge&logo=flutter&logoColor=white)]()
-[![vscode](https://img.shields.io/badge/visual%20studio%20code-43cba2?style=for-the-badge&logo=visualstudiocode&logoColor=white)]()
-[![github](https://img.shields.io/badge/github-43cba2?style=for-the-badge&logo=github&logoColor=white)]()
-[![linux](https://img.shields.io/badge/linux-43cba2?style=for-the-badge&logo=linux&logoColor=white)]()
-[![mysql](https://img.shields.io/badge/mysql-43cba2?style=for-the-badge&logo=mysql&logoColor=white)]()
-##
-#### Statistics
+<div style="display:grid;place-items:center">
+ <img align="center" src="./it-karak-itkaraktus.gif" alt="gif">
+
+ <p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/shuvampaul2005/count.svg" />
+</p>
+
+<h1 align="center">Hi 👋, I'm Shuvam Paul</h1>
+<h3 align="center">A passionate developer and a student</h3>
+<h3 align="left">Languages and Tools:</h3>
+<img src="https://skillicons.dev/icons?i=py,js,html,css,c,flutter,dart,androidstudio,docker,git,github,gitlab,githubactions,java,mysql,linux,stackoverflow,vscode" />
+  
+- 🌱 I’m currently juggling between **Python**, **Dart, Flutter** and a bit of **C,Java**
+
+- 💬 Ask me about **Python** ( most comfortable )
+
+- 📫 How to reach me - **Discord most preferably maybe [h_y_d_r_a_x#8064](https://discord.com/users/1073884543980933221)**
+
+- 📨 Also Reach me by **Email** - [shuvam.paul@icloud.com](mailto:shuvam.paul@icloud.com)
 <img align="center" src="./github-metrics.svg" alt="Metrics" >
 </div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rycerzes&count_private=true&show_icons=true&theme=transparent&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shuvampaul2005&count_private=true&show_icons=true&theme=transparent&hide_border=true)
