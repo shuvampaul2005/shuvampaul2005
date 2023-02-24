@@ -1,5 +1,6 @@
 <div style="display:grid;place-items:center">
- <img align="center" src="./it-karak-itkaraktus.gif" alt="gif">
+ <div align='center'>
+  <img src="./it-karak-itkaraktus.gif" alt="gif"/></div>
 
  <p align="center"> 
   Visitor count<br>
@@ -22,3 +23,10 @@
 </div>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shuvampaul2005&count_private=true&show_icons=true&theme=transparent&hide_border=true)
+
+<h3 align="left">Connect with me: </h3>
+<p align="left">
+ <a href="https://twitter.com/Shuvam_P" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Shuvam_P" height="30" width="40" /></a>
+ <a href="https://www.instagram.com/_.shuvam.paul._/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.shuvam.paul._" height="30" width="40" /></a>
+ <a href="https://discord.com/users/1073884543980933221" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="hydrax" height="30" width="40" /></a>
+ <a href="https://t.me/Shuvam_Paul" target="blank"><img align="center" src="./telegram.svg" alt="telegram" height="30" width="40"/></a></p>
