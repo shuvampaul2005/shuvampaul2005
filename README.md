@@ -13,7 +13,9 @@
 [![github](https://img.shields.io/badge/github-43cba2?style=for-the-badge&logo=github&logoColor=white)]()
 [![linux](https://img.shields.io/badge/linux-43cba2?style=for-the-badge&logo=linux&logoColor=white)]()
 [![mysql](https://img.shields.io/badge/mysql-43cba2?style=for-the-badge&logo=mysql&logoColor=white)]()
-
-
+##
+#### Statistics
 <img align="center" src="./github-metrics.svg" alt="Metrics" >
 </div>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rycerzes&count_private=true&show_icons=true&theme=transparent&hide_border=true)
