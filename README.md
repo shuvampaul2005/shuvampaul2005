@@ -18,7 +18,7 @@
 
 - 📫 How to reach me - **Discord most preferably maybe [h_y_d_r_a_x#8064](https://discord.com/users/1073884543980933221)**
 
-- 📨 Also Reach me by **Email** - [shuvam.paul@icloud.com](mailto:shuvam.paul@icloud.com)
+- 📨 Also Reach me by **Email** - [shuvampaul@duck.com](mailto:shuvampaul@duck.com)
 <img align="center" src="./github-metrics.svg" alt="Metrics" >
 </div>
 
