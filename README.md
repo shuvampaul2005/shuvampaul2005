@@ -22,6 +22,8 @@
 <img align="center" src="./github-metrics.svg" alt="Metrics" >
 </div>
 
+<p align="ledt"> <img src=https://github-readme-stats.vercel.app/api?username=shuvampaul2005&show_icons=true&theme=transparent&hide-border=true /> </p>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shuvampaul2005&count_private=true&show_icons=true&theme=transparent&hide_border=true)
 
 <h3 align="left">Connect with me: </h3>
@@ -29,4 +31,6 @@
  <a href="https://twitter.com/Shuvam_P" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Shuvam_P" height="30" width="40" /></a>
  <a href="https://www.instagram.com/_.shuvam.paul._/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.shuvam.paul._" height="30" width="40" /></a>
  <a href="https://discord.com/users/1073884543980933221" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="hydrax" height="30" width="40" /></a>
- <a href="https://t.me/Shuvam_Paul" target="blank"><img align="center" src="./telegram.svg" alt="telegram" height="30" width="40"/></a></p>
+ <a href="https://t.me/Shuvam_Paul" target="blank"><img align="center" src="./telegram.svg" alt="telegram" height="30" width="40"/>
+ <a href="https://www.linkedin.com/in/shuvam-paul-39073b267" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in.svg" alt="shuvampaul" height="30" width="40" /></a>
+ </a></p>
