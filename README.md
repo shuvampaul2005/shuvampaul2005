@@ -32,5 +32,5 @@
  <a href="https://www.instagram.com/_.shuvam.paul._/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.shuvam.paul._" height="30" width="40" /></a>
  <a href="https://discord.com/users/1073884543980933221" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="hydrax" height="30" width="40" /></a>
  <a href="https://t.me/Shuvam_Paul" target="blank"><img align="center" src="./telegram.svg" alt="telegram" height="30" width="40"/>
- <a href="https://www.linkedin.com/in/shuvam-paul-39073b267" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in.svg" alt="shuvampaul" height="30" width="40" /></a>
+ <a href="https://www.linkedin.com/in/shuvam-paul-39073b267" target="blank"><img align="center" src="./icons8-linkedin.svg" alt="shuvampaul" height="30" width="40" /></a>
  </a></p>
